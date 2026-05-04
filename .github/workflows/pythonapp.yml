@@ -1,6 +1,6 @@
 name: job-portal
 
-on: [push]
+on: [push] 
 
 jobs: 
   build:
